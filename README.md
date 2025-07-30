@@ -1,1 +1,3 @@
 # pgpkey
+
+Fingerprint: 7508 449E 863E 5979 3519  080D 2EF1 AB6E EB8C 2FED
